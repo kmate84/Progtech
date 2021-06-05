@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProgTecg_bjk9px/1.0.0": {
+        "runtime": {
+          "ProgTecg_bjk9px.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgTecg_bjk9px/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
