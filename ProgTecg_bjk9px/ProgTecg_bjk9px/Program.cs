@@ -21,7 +21,7 @@
         public IPapers Clone()
         {
             //shallow copy
-            return (IPapers)Clone();
+            return (IPapers)MemberwiseClone();
 
         // Deep Copy
         //return (IPapers)this.Clone();
@@ -45,7 +45,7 @@
         public IPapers Clone()
         {
             //shallow copy
-            return (IPapers)Clone();
+            return (IPapers)MemberwiseClone();
         //deep copy  
         //return (IPapers)this.Clone()
     }

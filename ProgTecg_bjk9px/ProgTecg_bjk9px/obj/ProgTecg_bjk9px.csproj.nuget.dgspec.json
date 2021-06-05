@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kmate\\source\\repos\\ProgTecg_bjk9px\\ProgTecg_bjk9px\\ProgTecg_bjk9px.csproj": {}
+    "C:\\Users\\kmate\\OneDrive\\Dokumentumok\\GitHub\\Progtech\\ProgTecg_bjk9px\\ProgTecg_bjk9px\\ProgTecg_bjk9px.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kmate\\source\\repos\\ProgTecg_bjk9px\\ProgTecg_bjk9px\\ProgTecg_bjk9px.csproj": {
+    "C:\\Users\\kmate\\OneDrive\\Dokumentumok\\GitHub\\Progtech\\ProgTecg_bjk9px\\ProgTecg_bjk9px\\ProgTecg_bjk9px.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kmate\\source\\repos\\ProgTecg_bjk9px\\ProgTecg_bjk9px\\ProgTecg_bjk9px.csproj",
+        "projectUniqueName": "C:\\Users\\kmate\\OneDrive\\Dokumentumok\\GitHub\\Progtech\\ProgTecg_bjk9px\\ProgTecg_bjk9px\\ProgTecg_bjk9px.csproj",
         "projectName": "ProgTecg_bjk9px",
-        "projectPath": "C:\\Users\\kmate\\source\\repos\\ProgTecg_bjk9px\\ProgTecg_bjk9px\\ProgTecg_bjk9px.csproj",
+        "projectPath": "C:\\Users\\kmate\\OneDrive\\Dokumentumok\\GitHub\\Progtech\\ProgTecg_bjk9px\\ProgTecg_bjk9px\\ProgTecg_bjk9px.csproj",
         "packagesPath": "C:\\Users\\kmate\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kmate\\source\\repos\\ProgTecg_bjk9px\\ProgTecg_bjk9px\\obj\\",
+        "outputPath": "C:\\Users\\kmate\\OneDrive\\Dokumentumok\\GitHub\\Progtech\\ProgTecg_bjk9px\\ProgTecg_bjk9px\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kmate\\AppData\\Roaming\\NuGet\\NuGet.Config",

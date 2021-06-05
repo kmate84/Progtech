@@ -11,3 +11,16 @@ C:\Users\kmate\source\repos\ProgTecg_bjk9px\ProgTecg_bjk9px\bin\Debug\netcoreapp
 C:\Users\kmate\source\repos\ProgTecg_bjk9px\ProgTecg_bjk9px\obj\Debug\netcoreapp3.1\ProgTecg_bjk9px.dll
 C:\Users\kmate\source\repos\ProgTecg_bjk9px\ProgTecg_bjk9px\obj\Debug\netcoreapp3.1\ProgTecg_bjk9px.pdb
 C:\Users\kmate\source\repos\ProgTecg_bjk9px\ProgTecg_bjk9px\obj\Debug\netcoreapp3.1\ProgTecg_bjk9px.genruntimeconfig.cache
+C:\Users\kmate\OneDrive\Dokumentumok\GitHub\Progtech\ProgTecg_bjk9px\ProgTecg_bjk9px\bin\Debug\netcoreapp3.1\ProgTecg_bjk9px.exe
+C:\Users\kmate\OneDrive\Dokumentumok\GitHub\Progtech\ProgTecg_bjk9px\ProgTecg_bjk9px\bin\Debug\netcoreapp3.1\ProgTecg_bjk9px.deps.json
+C:\Users\kmate\OneDrive\Dokumentumok\GitHub\Progtech\ProgTecg_bjk9px\ProgTecg_bjk9px\bin\Debug\netcoreapp3.1\ProgTecg_bjk9px.runtimeconfig.json
+C:\Users\kmate\OneDrive\Dokumentumok\GitHub\Progtech\ProgTecg_bjk9px\ProgTecg_bjk9px\bin\Debug\netcoreapp3.1\ProgTecg_bjk9px.runtimeconfig.dev.json
+C:\Users\kmate\OneDrive\Dokumentumok\GitHub\Progtech\ProgTecg_bjk9px\ProgTecg_bjk9px\bin\Debug\netcoreapp3.1\ProgTecg_bjk9px.dll
+C:\Users\kmate\OneDrive\Dokumentumok\GitHub\Progtech\ProgTecg_bjk9px\ProgTecg_bjk9px\bin\Debug\netcoreapp3.1\ProgTecg_bjk9px.pdb
+C:\Users\kmate\OneDrive\Dokumentumok\GitHub\Progtech\ProgTecg_bjk9px\ProgTecg_bjk9px\obj\Debug\netcoreapp3.1\ProgTecg_bjk9px.csprojAssemblyReference.cache
+C:\Users\kmate\OneDrive\Dokumentumok\GitHub\Progtech\ProgTecg_bjk9px\ProgTecg_bjk9px\obj\Debug\netcoreapp3.1\ProgTecg_bjk9px.AssemblyInfoInputs.cache
+C:\Users\kmate\OneDrive\Dokumentumok\GitHub\Progtech\ProgTecg_bjk9px\ProgTecg_bjk9px\obj\Debug\netcoreapp3.1\ProgTecg_bjk9px.AssemblyInfo.cs
+C:\Users\kmate\OneDrive\Dokumentumok\GitHub\Progtech\ProgTecg_bjk9px\ProgTecg_bjk9px\obj\Debug\netcoreapp3.1\ProgTecg_bjk9px.csproj.CoreCompileInputs.cache
+C:\Users\kmate\OneDrive\Dokumentumok\GitHub\Progtech\ProgTecg_bjk9px\ProgTecg_bjk9px\obj\Debug\netcoreapp3.1\ProgTecg_bjk9px.dll
+C:\Users\kmate\OneDrive\Dokumentumok\GitHub\Progtech\ProgTecg_bjk9px\ProgTecg_bjk9px\obj\Debug\netcoreapp3.1\ProgTecg_bjk9px.pdb
+C:\Users\kmate\OneDrive\Dokumentumok\GitHub\Progtech\ProgTecg_bjk9px\ProgTecg_bjk9px\obj\Debug\netcoreapp3.1\ProgTecg_bjk9px.genruntimeconfig.cache
